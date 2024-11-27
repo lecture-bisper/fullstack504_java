@@ -30,6 +30,11 @@ public class Quiz4 {
     boolean resultSecond = false;
 
 //    2. 1 ~ 99까지의 정수 확인
+//    중첩 if 문의 조건을 한번에 입력하기
+//    if (num > 0 && num < 100) {
+//
+//    }
+
     if (num > 0) {
       if (num < 100) {
 //    3. 3, 6, 9 중 하나라도 있으면 박수짝 출력

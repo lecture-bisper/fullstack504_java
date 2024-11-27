@@ -16,3 +16,6 @@
    5. 연습문제, 제어문 (단순 if, if ~ else, if ~ else if ~ else)
 3. 4이차 수업 (java_20241126)
    1. 문제풀이
+   2. switch ~ case문
+   3. for문
+   4. while, do ~ while 문
